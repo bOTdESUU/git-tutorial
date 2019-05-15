@@ -8,5 +8,5 @@ include_directories(include)
 
 file(GLOB SOURCES "src/*.c")
 
-add_executable(foo ${SOURCES})
+add_executable(foo /DIST/home/lab_espl_stud19/ESPL_code/build/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c)
 
